@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -231,3 +232,7 @@ demo-downstream - This is a demo repo for practicing downstream repo version con
 >>>>>>> 8a6b067 (Initial commit)
 >>>>>>> c3c909f (First commit)
 >>>>>>> 4d59f4b (First commit)
+=======
+# demo-downstream
+demo-downstream - This is a demo repo for practicing downstream repo version control
+>>>>>>> 8a6b06715c4d7bae6ae5bcc359f3f25debb5d0cc
