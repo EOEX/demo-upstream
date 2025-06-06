@@ -12,7 +12,11 @@
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
+<<<<<<< HEAD
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
+>>>>>>> 3c2c1d939a2ef23a13daacd831351992dc01ee07
 =======
 <<<<<<< HEAD
 =======
@@ -32,7 +36,13 @@
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
+<<<<<<< HEAD
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+=======
+>>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
+>>>>>>> 3c2c1d939a2ef23a13daacd831351992dc01ee07
 # Dreamhouse Lightning Web Components Sample Application
 
 [![CI Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/dreamhouse-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/dreamhouse-lwc)
@@ -262,7 +272,11 @@ The app GeocodingService uses OpenStreetMap API to geocode property addresses. O
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
+<<<<<<< HEAD
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
+>>>>>>> 3c2c1d939a2ef23a13daacd831351992dc01ee07
 =======
 <<<<<<< HEAD
 =======
@@ -289,4 +303,10 @@ demo-downstream - This is a demo repo for practicing downstream repo version con
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
+<<<<<<< HEAD
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+=======
+>>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
+>>>>>>> 3c2c1d939a2ef23a13daacd831351992dc01ee07
