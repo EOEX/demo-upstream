@@ -4,6 +4,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
@@ -19,8 +22,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+=======
+>>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
@@ -248,6 +254,9 @@ The app GeocodingService uses OpenStreetMap API to geocode property addresses. O
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
@@ -270,8 +279,11 @@ demo-downstream - This is a demo repo for practicing downstream repo version con
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+=======
+>>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
