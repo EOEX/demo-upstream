@@ -4,18 +4,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
 =======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> c3c909f (First commit)
 >>>>>>> 4d59f4b (First commit)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27,6 +31,10 @@
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+=======
+>>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
 # Dreamhouse Lightning Web Components Sample Application
 
 [![CI Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/dreamhouse-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/dreamhouse-lwc)
@@ -248,12 +256,15 @@ The app GeocodingService uses OpenStreetMap API to geocode property addresses. O
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
 =======
 <<<<<<< HEAD
 =======
@@ -270,6 +281,7 @@ demo-downstream - This is a demo repo for practicing downstream repo version con
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
 =======
@@ -278,3 +290,7 @@ demo-downstream - This is a demo repo for practicing downstream repo version con
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
 =======
 >>>>>>> 458632e89e33609fe715fe44cccc08b6cba51684
+=======
+=======
+>>>>>>> 586b8603a83c7bec8fd9c1dcd796801ce0a34286
+>>>>>>> f4b8a59728d8bdfbe42cdfc7a858dc3cca79c21f
