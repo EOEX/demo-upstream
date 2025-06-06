@@ -14,6 +14,6 @@ public with sharing class HelloWorld
     public HelloWorld() 
     {
         System.debug('Hello World !');
-        System.debug('From Sosthene');
+        System.debug('From Sosthene Grosset-Janin');
     }
 }
